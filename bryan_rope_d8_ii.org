@@ -1,0 +1,17 @@
+* D8 ii Publication List
+** Refereed Journal Articles
+
+ - * Ben Andrews, \textbf{Paul Bryan}. \emph{Curvature bounds by isoperimetric comparison for normalized Ricci flow on the two-sphere}. Calc. Var. Partial Differential Equations 39, 419--428, 2010.
+ - * Ben Andrews, \textbf{Paul Bryan}. \emph{A comparison theorem for the isoperimetric profile under curve-shortening flow}. Comm. Anal. Geom. 19, 503--539, 2011.
+ - * Ben Andrews, \textbf{Paul Bryan}. \emph{Curvature bound for curve shortening flow via distance comparison and a direct proof of Grayson's theorem}. J. Reine Angew. Math. 653, 179--187. 2011.
+ - * \textbf{Paul Bryan}. \emph{Isoperimetric Comparison Techniques for Low Dimension Curvature Flows}. Ph.D. Thesis, Australian National University, 2012.
+ - * \textbf{Paul Bryan} \emph{Curvature bounds via an isoperimetric comparison for Ricci flow on surfaces} Ann. Scuola Norm. Sup. Pisa Cl. Sci September 2016, Volume 16, Issue 3
+ - * \textbf{Paul Bryan}, Janelle Louie \emph{Classification of Convex Ancient Solutions to Curve Shortening Flow on the Sphere} J. Geom. Anal. April 2016, Volume 26, Issue 2, 858--872
+ - * \textbf{Paul Bryan}, Mohammad Ivaki, Julian Scheuer \emph{Harnack inequalities for evolving hypersurfaces on the sphere} Comm. Anal Geom. (Accepted) 2016 arXiv: [math.DG] (available at \url{http://arxiv.org/abs/1512.03374})
+
+** Other Research Outputs
+
+ - * \textbf{Paul Bryan}, Mohammad Ivaki, Julian Scheuer \emph{On the classification of ancient solutions to curvature flows on the sphere}, Submitted to \emph{Journal of the European Mathematical Society}, 2016. arXiv: [math.DG] (available at \url{http://arxiv.org/abs/1604.01694})
+ - * \textbf{Paul Bryan}, Mohammad Ivaki \emph{Harnack estimate for mean curvature flow on the sphere} Submitted to \emph{Asian Journal of Mathematics}, 2015. arXiv: [math.DG] (available at \url{http://arxiv.org/abs/1508.02821})
+ - \textbf{Paul Bryan}, Mohammad Ivaki, Julian Scheuer \emph{A unified flow approach to smooth, even $L_p$-Minkowski problems}, Submitted to \emph{Analysis \& PDE} 2016 arXiv: [math.DG] (available at \url{http://arxiv.org/abs/1512.03374})
+ - Lashi Bandara, \textbf{Paul Bryan} \emph{Heat kernels and regularity for rough metrics on smooth manifolds}, Submitted to \emph{Studia Mathematica} 2018 arxiv: [math.DG] (available at \url{https://arxiv.org/abs/1712.09287})
