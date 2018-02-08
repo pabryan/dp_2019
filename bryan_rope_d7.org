@@ -1,10 +1,13 @@
-#+TITLE: D7 Rope - Bryan
+#+options: toc:nil date:nil title:nil num:nil
+#+latex_header: \input{settings}
 
-* AMOUNT OF TIME AS AN ACTIVE RESEARCHER
+* D7 Rope - Bryan
+
+** AMOUNT OF TIME AS AN ACTIVE RESEARCHER
 
 It is 5.5 years since I graduated with my highest educational qualification. From 2012 to the present I have been employed at 1.0 FTE without interruption. 
 
-* RESEARCH OPPORTUNITIES
+** RESEARCH OPPORTUNITIES
 
 From 2012-2015 I was an SEW Visiting Assistant Professor at UCSD. My role was 0.6 teaching, 0.4 research. For 2016-2017, I held Research Fellow positions at the ANU, Warwick University and the University of Queensland as well as a Riemman Fellow at Leibniz University. I had small teaching load of around 0.1 teaching, with the remaining 0.9 devoted to research. Currently I am funded by a DECRA at Macuqrie University for 2018-2020 with 0.8 time devoted to research under the DECRA and the remaining 0.2 to be distributed amongst teaching, administration and other projects such as the current proposal. I also hold a continuing Lecturer position at Macquarie which will become active in 2021 upon completion of the DECRA.
 
@@ -12,96 +15,96 @@ I received research mentoring from Prof. Ben Andrews throughout my PhD studies, 
 
 All of my appointments have provided access to library facilities, computing as well as opportunities for travel to conferences and other research institutions. I was awarded an AMS/Simons travel grant in 2014 that provided funding for such travel.
 
-* RESEARCH ACHIEVEMENTS AND CONTRIBUTIONS
+** RESEARCH ACHIEVEMENTS AND CONTRIBUTIONS
 
-** Awards
+*** Awards
 
-- 2018--2020 Discovery Early Career Research Award
-- 2015 Riemann Fellow, Leibniz University
-- 2014 AMS-Simons Travel Award
-- 2008--2011 Australian Postgraduate Award
-- 2008--2011 Research School of Physical Sciences and Engineering Top Up
-- 2007--2008 ANU Honours Scholarship
-- 11/2006--03/2007 ANU Summer Research Scholarship
+ - 2018--2020 Discovery Early Career Research Award
+ - 2015 Riemann Fellow, Leibniz University
+ - 2014 AMS-Simons Travel Award
+ - 2008--2011 Australian Postgraduate Award
+ - 2008--2011 Research School of Physical Sciences and Engineering Top Up
+ - 2007--2008 ANU Honours Scholarship
+ - 11/2006--03/2007 ANU Summer Research Scholarship
 
-** Invited speaker
+*** Invited speaker
 
-- Dec 2017 Curve Shortening of Networks
-  61st AustMS - Geometric Analysis session
-- May 2017 Harnack Inequalities and Ancient Solutions of Hypersurface Flows
-  China-Australia joint conference on partial differential equations
-- Dec 2016 Harnack Inequalities and Ancient Solutions of Hypersurface Flows
-  Singularities of Geometric Partial Differential Equations, Warwick University
-- June 2016 Ancient soutions and Harnack Inequalities for curvature flows
-  Pontifical Catholic University of Chile
-- May 2016 Ancient solutions of curvature flows in the sphere
-  University of Warwick
-- November 2015 Harnack inequalities, Aleksandrov reflection, and ancient solution of curvature flows on the sphere.
-  Free University, Berlin
-- October 2015 Harnack inequalities and Classification of Ancient Solutions to Mean Curvature Flow
-  Riemann Center, Liebniz University Oberseminar
-- September 2015 Isoperimetric Inequalities: What's new since Queen Dido? An case for the isoperimetric profile
-  ANU Colloquium
-- September 2015 Harnack inequalities and Classification of Ancient Solutions to Mean Curvature Flow
-  Monash University Geometry and Analysis Seminar
-- August 2015 Harnack inequalities and Classification of Ancient Solutions to Mean Curvature Flow
-  ANU Geometry and Analysis Seminar
-- June 2015 Comparison results for the Isoperimetric profile and curvature flows
-  Columbia University Geometry Seminar
-- April 2015 A viscosity equation and applications of the maximum principle for the isoperimetric profile
-  Geometric Flows: Recent Developments and Applications (BIRS)
-- May 2014 Curvature Flows and Isoperimetry
-  UC Santa Cruz Colloquium
-- March 2014 Isoperimetric Problems in Geometry
-  UCI Geometry Seminar  
-- October 2013 Polar Dual of Convex Bodies and Curvature Flows
-  UCSD Differential Geometry Seminar
-- May 2013 Isoperimetry and Viscosity Solutions in Geometric Evolution Equations
-  Pacific Northwest Geometry Seminar
-- January 2013 Brendle's proof of the Lawson conjecture
-  UCSD Differential Geometry Seminar
-- October 2012 Isoperimetric comparison techniques for Ricci flow on surfaces
-  UCSD Differential Geometry Seminar
-- Jun 2012 A Viscosity Equation for the Isoperimetric Profile of Surfaces
-  Peking University, Analysis Seminar
-- Sep 2011 An Isoperimetric Comparison Theorem for the Ricci Flow on Surfaces
-  55th Annual Australian Mathematical Society Meeting
-- Aug 2011 An Isoperimetric Comparison Theorem for the Ricci Flow on Surfaces
-  Peking University, Analysis Seminar
-- May 2011  An Isoperimetric Comparison Theorem for the Ricci Flow on Surfaces
-  ANU, Analysis Seminar
-- Mar 2009  An Isoperimetric Comparison Theorem for the Ricci Flow on the $2$-sphere
-  Workshop on Nonlinear Analysis, ANU
-- Oct 2008 A Distance Comparison Theorem for the Curve Shortening Flow
-  Workshop on Geometric Analysis, University of Wollongong
-- Feb 2007 The Curve Shortening Flow: Grayson's Theorem\\
-  AMSI/CSIRO The Big Day In
+ - Dec 2017 Curve Shortening of Networks
+   61st AustMS - Geometric Analysis session
+ - May 2017 Harnack Inequalities and Ancient Solutions of Hypersurface Flows
+   China-Australia joint conference on partial differential equations
+ - Dec 2016 Harnack Inequalities and Ancient Solutions of Hypersurface Flows
+   Singularities of Geometric Partial Differential Equations, Warwick University
+ - June 2016 Ancient soutions and Harnack Inequalities for curvature flows
+   Pontifical Catholic University of Chile
+ - May 2016 Ancient solutions of curvature flows in the sphere
+   University of Warwick
+ - November 2015 Harnack inequalities, Aleksandrov reflection, and ancient solution of curvature flows on the sphere.
+   Free University, Berlin
+ - October 2015 Harnack inequalities and Classification of Ancient Solutions to Mean Curvature Flow
+   Riemann Center, Liebniz University Oberseminar
+ - September 2015 Isoperimetric Inequalities: What's new since Queen Dido? An case for the isoperimetric profile
+   ANU Colloquium
+ - September 2015 Harnack inequalities and Classification of Ancient Solutions to Mean Curvature Flow
+   Monash University Geometry and Analysis Seminar
+ - August 2015 Harnack inequalities and Classification of Ancient Solutions to Mean Curvature Flow
+   ANU Geometry and Analysis Seminar
+ - June 2015 Comparison results for the Isoperimetric profile and curvature flows
+   Columbia University Geometry Seminar
+ - April 2015 A viscosity equation and applications of the maximum principle for the isoperimetric profile
+   Geometric Flows: Recent Developments and Applications (BIRS)
+ - May 2014 Curvature Flows and Isoperimetry
+   UC Santa Cruz Colloquium
+ - March 2014 Isoperimetric Problems in Geometry
+   UCI Geometry Seminar  
+ - October 2013 Polar Dual of Convex Bodies and Curvature Flows
+   UCSD Differential Geometry Seminar
+ - May 2013 Isoperimetry and Viscosity Solutions in Geometric Evolution Equations
+   Pacific Northwest Geometry Seminar
+ - January 2013 Brendle's proof of the Lawson conjecture
+   UCSD Differential Geometry Seminar
+ - October 2012 Isoperimetric comparison techniques for Ricci flow on surfaces
+   UCSD Differential Geometry Seminar
+ - Jun 2012 A Viscosity Equation for the Isoperimetric Profile of Surfaces
+   Peking University, Analysis Seminar
+ - Sep 2011 An Isoperimetric Comparison Theorem for the Ricci Flow on Surfaces
+   55th Annual Australian Mathematical Society Meeting
+ - Aug 2011 An Isoperimetric Comparison Theorem for the Ricci Flow on Surfaces
+   Peking University, Analysis Seminar
+ - May 2011  An Isoperimetric Comparison Theorem for the Ricci Flow on Surfaces
+   ANU, Analysis Seminar
+ - Mar 2009  An Isoperimetric Comparison Theorem for the Ricci Flow on the $2$-sphere
+   Workshop on Nonlinear Analysis, ANU
+ - Oct 2008 A Distance Comparison Theorem for the Curve Shortening Flow
+   Workshop on Geometric Analysis, University of Wollongong
+ - Feb 2007 The Curve Shortening Flow: Grayson's Theorem\\
+   AMSI/CSIRO The Big Day In
 
-** Research Support Income
+*** Research Support Income
 
-- DE180100110: 2018-2020
-- 2015 Riemann Fellow, Leibniz University
-- 2014 AMS-Simons Travel Award
-- 2008--2011 Australian Postgraduate Award
-- 2008--2011 Research School of Physical Sciences and Engineering Top Up
-- 2007--2008 ANU Honours Scholarship
-- 11/2006--03/2007 ANU Summer Research Scholarship
+ - DE180100110: 2018-2020
+ - 2015 Riemann Fellow, Leibniz University
+ - 2014 AMS-Simons Travel Award
+ - 2008--2011 Australian Postgraduate Award
+ - 2008--2011 Research School of Physical Sciences and Engineering Top Up
+ - 2007--2008 ANU Honours Scholarship
+ - 11/2006--03/2007 ANU Summer Research Scholarship
  
-** Other Professional Activities
+*** Other Professional Activities
 
-- Refereed 10 articles for Calc. Var. PDE, Crelle's Journal, Proc. AMS and others.
-- Reviewed 18 articles on MathSciNet Mathematical Reviews.
-- Joint organiser for Matrix workshop: Elliptic Partial Differential Equations Of Second Order: Celebrating 40 Years Of Gilbarg And Trudinger’s Book
-- Joint organiser for PDE session of 61st AustMS Meeting 2017
-- Guest Editor for Matrix Annals 2017
-- Honour's Panel: Zi Ou, UQ 2017
-- Assisted supervision of Marielle Ong's Master's Thesis under Masoud Kamgarpour, UQ 2017
-- Assisted supervision of Janelle Louise' Ph.D. Thesis under Bennet Chow, UCSD 2014
+ - Refereed 10 articles for Calc. Var. PDE, Crelle's Journal, Proc. AMS and others.
+ - Reviewed 18 articles on MathSciNet Mathematical Reviews.
+ - Joint organiser for Matrix workshop: Elliptic Partial Differential Equations Of Second Order: Celebrating 40 Years Of Gilbarg And Trudinger’s Book
+ - Joint organiser for PDE session of 61st AustMS Meeting 2017
+ - Guest Editor for Matrix Annals 2017
+ - Honour's Panel: Zi Ou, UQ 2017
+ - Assisted supervision of Marielle Ong's Master's Thesis under Masoud Kamgarpour, UQ 2017
+ - Assisted supervision of Janelle Louise' Ph.D. Thesis under Bennet Chow, UCSD 2014
 
-** Research Impact
+*** Research Impact
 
-- With Ben Andrews and in my PhD thesis I developed groundbreaking new techniques for deducing curvature control in geometric evolution equations using isoperimetric estimates. We used these to give the simplest proofs yet available for the fundamental convergence theorems for Ricci flow on the two-sphere \cite{} and for curve shortening flow in the plane \cite{}. I further extended the techniques to the Ricci flow on arbitrary closed surfaces \cite{}, providing a unifying approach to the Ricci flow on surfaces. This work has been referenced by others in lecture notes and theses as the most accessible approach to the convergence results. The second part of the current proposal on controlling extremal profiles as viscosity subsolutions seeks to extend these techniques further.
+ - With Ben Andrews and in my PhD thesis I developed groundbreaking new techniques for deducing curvature control in geometric evolution equations using isoperimetric estimates. We used these to give the simplest proofs yet available for the fundamental convergence theorems for Ricci flow on the two-sphere \cite{MR2729306} and for curve shortening flow in the plane \cite{MR2794630,MR2843240}. I further extended the techniques to the Ricci flow on arbitrary closed surfaces \cite{Bryan}, providing a unifying approach to the Ricci flow on surfaces. This work has been referenced by others in lecture notes and theses as the most accessible approach to the convergence results. The second part of the current proposal on controlling extremal profiles as viscosity subsolutions seeks to extend these techniques further.
 
-- With Mohammad Ivaki, Julian Scheuer and Janelle Louise, I investigated Harnack inequalities are their applications to ancient solutions of curvature. We provided the first examples of Harnack inequalities for hypersurface flows in non-Euclidean backgrounds and further obtained such inequalities for the intrinsic, fully non-linear cross curvature flow (subject to an integrability condition). Given that obtaining a Harnack inequality for the Ricci flow was a tremendous achievement involving extremely delicate analysis, coupled with the fact that the Ricci flow is not fully non-linear, the Harnack for the cross curvature flow should be seems Our work classifying ancient solutions of hypersurface flows in the sphere obtains extremely broad results applying to any parabolic flow. In this area, and more broadly in the study of fully non-linear PDE, typical assumptions are homogeneity and/or convexity/concavity of the flow speed. Our results require no such assumption, making use of a powerful and geometric parabolic Aleksandrov reflection technique.
+ - With Mohammad Ivaki, Julian Scheuer and Janelle Louie, I investigated Harnack inequalities are their applications to ancient solutions of curvature \cite{2017arXiv170307493B,bryanlouie,2016arXiv160401694B,2015arXiv150802821B,2015arXiv151203374B}. We provided the first examples of Harnack inequalities for hypersurface flows in non-Euclidean backgrounds and further obtained such inequalities for the intrinsic, fully non-linear cross curvature flow (subject to an integrability condition). Given that obtaining a Harnack inequality for the Ricci flow was a tremendous achievement involving extremely delicate analysis, coupled with the fact that the Ricci flow is not fully non-linear, the Harnack for the cross curvature flow should be seems Our work classifying ancient solutions of hypersurface flows in the sphere obtains extremely broad results applying to any parabolic flow. In this area, and more broadly in the study of fully non-linear PDE, typical assumptions are homogeneity and/or convexity/concavity of the flow speed. Our results require no such assumption, making use of a powerful and geometric parabolic Aleksandrov reflection technique.
 
-- With Lashi Bandara, we have shown how to obtain the existence and regularity of heat kernels on smooth manifolds with geometric singularities (so called "rough metrics"). This work has just begun, but already is attracting attention among harmonic analysts as many researchers have been working hard on constructing heat kernels in lower regularity situations. Our new innovations open a whole new avenue of exploring this cutting edge field.
+ - With Lashi Bandara \cite{2017arXiv171209287B}, we have shown how to obtain the existence and regularity of heat kernels on smooth manifolds with geometric singularities (so called "rough metrics"). This work has just begun, but already is attracting attention among harmonic analysts as many researchers have been working hard on constructing heat kernels in lower regularity situations. Our new innovations open a whole new avenue of exploring this cutting edge field.

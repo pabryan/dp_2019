@@ -1,3 +1,6 @@
+#+options: toc:nil date:nil title:nil num:nil
+#+latex_header: \input{settings}
+
 * D9 Ten career-best academic research outputs
 
 - * Ben Andrews, \textbf{Paul Bryan}. \emph{Curvature bounds by isoperimetric comparison for normalized Ricci flow on the two-sphere}. Calc. Var. Partial Differential Equations 39, 419--428, 2010.

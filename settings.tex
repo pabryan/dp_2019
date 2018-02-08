@@ -1,0 +1,20 @@
+\usepackage[bibstyle=alphabetic,citestyle=alphabetic,backend=bibtex]{biblatex}
+\usepackage[small,compact]{titlesec}
+\setlength{\textwidth}{19.7 cm}
+\setlength{\hoffset}{-3.5 cm}
+\setlength{\voffset}{-3.3 cm}
+\addtolength{\textheight}{6.0 cm}
+
+\setlength{\baselineskip}{12.1 pt}
+\setlength{\parskip}{4.5 pt}
+\setlength{\parindent}{0 pt}
+\setlength{\abovedisplayskip}{0 pt}
+\setlength{\belowdisplayskip}{0pt}
+\setlength{\abovedisplayshortskip}{0 pt}
+\setlength{\belowdisplayshortskip}{0 pt}
+
+\bibliography{refs}
+\AtEveryBibitem{\clearfield{doi}}
+\AtEveryBibitem{\clearfield{url}}
+\AtEveryBibitem{\clearfield{issn}}
+\renewcommand*{\bibfont}{\footnotesize}
