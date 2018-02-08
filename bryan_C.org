@@ -1,0 +1,291 @@
+#+options: toc:nil date:nil title:nil num:nil
+#+latex_header: \input{settings}
+
+#+latex_header: \newtheorem{Conjecture}[theorem]{Conjecture}
+
+* Geometric Evolution Equations
+
+\underline{Isoperimetric Comparisons for Curvature Flows}
+In a series of papers, CIs Andrews and Bryan provided very direct proofs of convergence results for curvature flows \cite{AB1, AB2, AB3, B1} using powerful isoperimetric comparison techniques. As opposed to most other isoperimetric methods used \cite{Ham1, Hu1, Ham2}, these methods obtain the strongest possible curvature bounds from the comparison. Until recently, it was not clear how to generalise these results to other flows. Bryan's work in preparation with Mariel Saez on Curve Shortening of Networks provides new insight into the problem, specifically by a careful linearisation and subsequent construction of comparison functions through new geometric inequalities. The linearisation provides a neighbourhood on which fixed points are attracting, expressed via the geometric inequalities, themselves manifested quite strikingly as convex dependence of variational curvature integrals arising from a viscosity differential inequality for the isoperimetric profile. We will investigate how broadly this approach applies, in particular to three-dimensional Ricci flow and the curve shortening flow on surfaces and to obtain elegant, unified proofs of previous results as well as new results.
+
+
+#+BEGIN_latex
+\subsubsection*{\fbox{Aim 4: Isoperimetric comparisons}}
+#+END_Latex
+
+
+The three-dimensional Ricci flow is amenable to isoperimetric comparisons using ideas of Hubert Bray in proving the Penrose inequality \cite{Br}. A striking application of this would be to recover Hamilton's original three-manifolds result with these techniques.
+
+\begin{Conjecture}
+On a compact, three-manifold with positive Ricci curvature, covered by the sphere, a viscosity equation for the Ricci flow holds and moreover, there exists a comparison function forcing convergence to the constant curvature metric.
+\end{Conjecture}
+
+The restriction that the manifold be covered by the sphere is not present in Hamilton's original proof, and is necessary here in order to control the topology of isoperimetric domains, which leads to the following further conjecture:
+
+\begin{Conjecture}
+The Euler characteristic of the boundary of a three-dimensional isoperimetric domain is controlled by the topology of the ambient space and hence the restriction to covering by a sphere in the previous conjecture may be removed.
+\end{Conjecture}
+
+Isoperimetric comparisons may also be applied to the curve shortening flow on surfaces.
+
+\begin{Conjecture}
+On an arbitrary complete surface, cusp-free curve shortening flow either evolves a simple closed curve to a round point, a closed geodesic, or escapes to infinity.
+\end{Conjecture}
+
+Note that Grayson \cite{Gr} and Gage \cites{Ga1, Ga2} proved that under certain assumptions on the surface (such as convexity at infinity), there is no escape to infinity, leaving it reasonable to conjecture one of the other two possibilities above.
+
+\footnotesize
+\begin{bibdiv}
+\begin{biblist}
+
+\itemsep=0pt\baselineskip=0 pt
+
+
+\bib{B1}{article}{
+    AUTHOR = {Bryan, Paul},
+     TITLE = {Curvature bounds via an isoperimetric comparison for {R}icci
+              flow on surfaces},
+   JOURNAL = {Ann. Sc. Norm. Super. Pisa Cl. Sci. (5)},
+  FJOURNAL = {Annali della Scuola Normale Superiore di Pisa. Classe di
+              Scienze. Serie V},
+    VOLUME = {16},
+      YEAR = {2016},
+    NUMBER = {3},
+     PAGES = {729--757},
+      ISSN = {0391-173X},
+   MRCLASS = {53C44 (35K55 58J35)},
+  MRNUMBER = {3618074},
+}
+
+
+\bib{AB3}{article}{
+    AUTHOR = {Andrews, Ben and Bryan, Paul},
+     TITLE = {A comparison theorem for the isoperimetric profile under
+              curve-shortening flow},
+   JOURNAL = {Comm. Anal. Geom.},
+  FJOURNAL = {Communications in Analysis and Geometry},
+    VOLUME = {19},
+      YEAR = {2011},
+    NUMBER = {3},
+     PAGES = {503--539},
+      ISSN = {1019-8385},
+   MRCLASS = {53C44},
+  MRNUMBER = {2843240},
+MRREVIEWER = {David L. Finn},
+       URL = {https://doi.org/10.4310/CAG.2011.v19.n3.a3},
+}
+                
+\bib{AB2}{article}{
+    AUTHOR = {Andrews, Ben and Bryan, Paul},
+     TITLE = {Curvature bound for curve shortening flow via distance
+              comparison and a direct proof of {G}rayson's theorem},
+   JOURNAL = {J. Reine Angew. Math.},
+  FJOURNAL = {Journal f\"ur die Reine und Angewandte Mathematik. [Crelle's
+              Journal]},
+    VOLUME = {653},
+      YEAR = {2011},
+     PAGES = {179--187},
+      ISSN = {0075-4102},
+   MRCLASS = {53C44},
+  MRNUMBER = {2794630},
+MRREVIEWER = {Anders Linn\'er},
+       URL = {https://doi.org/10.1515/CRELLE.2011.026},
+}
+                
+\bib{AB1}{article}{
+    AUTHOR = {Andrews, Ben and Bryan, Paul},
+     TITLE = {Curvature bounds by isoperimetric comparison for normalized
+              {R}icci flow on the two-sphere},
+   JOURNAL = {Calc. Var. Partial Differential Equations},
+  FJOURNAL = {Calculus of Variations and Partial Differential Equations},
+    VOLUME = {39},
+      YEAR = {2010},
+    NUMBER = {3-4},
+     PAGES = {419--428},
+      ISSN = {0944-2669},
+   MRCLASS = {53C44 (35K45 35K55 35R01)},
+  MRNUMBER = {2729306},
+MRREVIEWER = {Jeffrey D. Streets},
+       URL = {https://doi.org/10.1007/s00526-010-0315-5},
+}
+
+\bib{Ham1}{incollection}{
+    AUTHOR = {Hamilton, Richard S.},
+     TITLE = {Isoperimetric estimates for the curve shrinking flow in the
+              plane},
+ BOOKTITLE = {Modern methods in complex analysis ({P}rinceton, {NJ}, 1992)},
+    SERIES = {Ann. of Math. Stud.},
+    VOLUME = {137},
+     PAGES = {201--222},
+ PUBLISHER = {Princeton Univ. Press},
+   ADDRESS = {Princeton, NJ},
+      YEAR = {1995},
+   MRCLASS = {58E10 (53A04)},
+  MRNUMBER = {1369140 (96k:58043)},
+MRREVIEWER = {Anders Linn{\'e}r},
+}
+
+\bib{Ham2}{incollection}{
+    AUTHOR = {Hamilton, Richard S.},
+     TITLE = {An isoperimetric estimate for the {R}icci flow on the
+              two-sphere},
+ BOOKTITLE = {Modern methods in complex analysis ({P}rinceton, {NJ}, 1992)},
+    SERIES = {Ann. of Math. Stud.},
+    VOLUME = {137},
+     PAGES = {191--200},
+ PUBLISHER = {Princeton Univ. Press},
+   ADDRESS = {Princeton, NJ},
+      YEAR = {1995},
+   MRCLASS = {53C21 (58G30)},
+  MRNUMBER = {1369139 (96k:53059)},
+MRREVIEWER = {Emmanuel Hebey},
+}
+
+\bib{Hu1}{article}{
+    AUTHOR = {Huisken, Gerhard},
+     TITLE = {A distance comparison principle for evolving curves},
+   JOURNAL = {Asian J. Math.},
+  FJOURNAL = {The Asian Journal of Mathematics},
+    VOLUME = {2},
+      YEAR = {1998},
+    NUMBER = {1},
+     PAGES = {127--133},
+      ISSN = {1093-6106},
+   MRCLASS = {58E10 (53A04)},
+  MRNUMBER = {1656553 (99m:58052)},
+MRREVIEWER = {Anders Linn{\'e}r},
+}
+\bib{B1}{article}{
+    AUTHOR = {Bryan, Paul},
+     TITLE = {Curvature bounds via an isoperimetric comparison for {R}icci
+              flow on surfaces},
+   JOURNAL = {Ann. Sc. Norm. Super. Pisa Cl. Sci. (5)},
+  FJOURNAL = {Annali della Scuola Normale Superiore di Pisa. Classe di
+              Scienze. Serie V},
+    VOLUME = {16},
+      YEAR = {2016},
+    NUMBER = {3},
+     PAGES = {729--757},
+      ISSN = {0391-173X},
+   MRCLASS = {53C44 (35K55 58J35)},
+  MRNUMBER = {3618074},
+}
+
+
+\bib{AB3}{article}{
+    AUTHOR = {Andrews, Ben and Bryan, Paul},
+     TITLE = {A comparison theorem for the isoperimetric profile under
+              curve-shortening flow},
+   JOURNAL = {Comm. Anal. Geom.},
+  FJOURNAL = {Communications in Analysis and Geometry},
+    VOLUME = {19},
+      YEAR = {2011},
+    NUMBER = {3},
+     PAGES = {503--539},
+      ISSN = {1019-8385},
+   MRCLASS = {53C44},
+  MRNUMBER = {2843240},
+MRREVIEWER = {David L. Finn},
+       URL = {https://doi.org/10.4310/CAG.2011.v19.n3.a3},
+}
+		
+\bib{AB2}{article}{
+    AUTHOR = {Andrews, Ben and Bryan, Paul},
+     TITLE = {Curvature bound for curve shortening flow via distance
+              comparison and a direct proof of {G}rayson's theorem},
+   JOURNAL = {J. Reine Angew. Math.},
+  FJOURNAL = {Journal f\"ur die Reine und Angewandte Mathematik. [Crelle's
+              Journal]},
+    VOLUME = {653},
+      YEAR = {2011},
+     PAGES = {179--187},
+      ISSN = {0075-4102},
+   MRCLASS = {53C44},
+  MRNUMBER = {2794630},
+MRREVIEWER = {Anders Linn\'er},
+       URL = {https://doi.org/10.1515/CRELLE.2011.026},
+}
+		
+\bib{AB1}{article}{
+    AUTHOR = {Andrews, Ben and Bryan, Paul},
+     TITLE = {Curvature bounds by isoperimetric comparison for normalized
+              {R}icci flow on the two-sphere},
+   JOURNAL = {Calc. Var. Partial Differential Equations},
+  FJOURNAL = {Calculus of Variations and Partial Differential Equations},
+    VOLUME = {39},
+      YEAR = {2010},
+    NUMBER = {3-4},
+     PAGES = {419--428},
+      ISSN = {0944-2669},
+   MRCLASS = {53C44 (35K45 35K55 35R01)},
+  MRNUMBER = {2729306},
+MRREVIEWER = {Jeffrey D. Streets},
+       URL = {https://doi.org/10.1007/s00526-010-0315-5},
+}
+
+\bib{Ga1}{article}{
+    AUTHOR = {Gage, M. E.},
+     TITLE = {Curve shortening makes convex curves circular},
+   JOURNAL = {Invent. Math.},
+  FJOURNAL = {Inventiones Mathematicae},
+    VOLUME = {76},
+      YEAR = {1984},
+    NUMBER = {2},
+     PAGES = {357--364},
+      ISSN = {0020-9910},
+     CODEN = {INVMBH},
+   MRCLASS = {52A40 (52A10)},
+  MRNUMBER = {742856 (85i:52004)},
+MRREVIEWER = {G. D. Chakerian},
+       DOI = {10.1007/BF01388602},
+       URL = {http://dx.doi.org.virtual.anu.edu.au/10.1007/BF01388602},
+}
+
+\bib{Ga2}{article}{
+    AUTHOR = {Gage, Michael E.},
+     TITLE = {Deforming curves on convex surfaces to simple closed
+              geodesics},
+   JOURNAL = {Indiana Univ. Math. J.},
+  FJOURNAL = {Indiana University Mathematics Journal},
+    VOLUME = {39},
+      YEAR = {1990},
+    NUMBER = {4},
+     PAGES = {1037--1059},
+      ISSN = {0022-2518},
+     CODEN = {IUMJAB},
+   MRCLASS = {58E10 (53C45)},
+  MRNUMBER = {1087184 (92g:58021)},
+       DOI = {10.1512/iumj.1990.39.39049},
+       URL = {http://dx.doi.org/10.1512/iumj.1990.39.39049},
+}
+
+\bib{Gr}{article}{
+    AUTHOR = {Grayson, Matthew A.},
+     TITLE = {Shortening embedded curves},
+   JOURNAL = {Ann. of Math. (2)},
+  FJOURNAL = {Annals of Mathematics. Second Series},
+    VOLUME = {129},
+      YEAR = {1989},
+    NUMBER = {1},
+     PAGES = {71--111},
+      ISSN = {0003-486X},
+     CODEN = {ANMAAH},
+   MRCLASS = {53C22 (58E10)},
+  MRNUMBER = {979601 (90a:53050)},
+MRREVIEWER = {Gudlaugur Thorbergsson},
+       DOI = {10.2307/1971486},
+       URL = {http://dx.doi.org/10.2307/1971486},
+}
+
+\bib{Br}{thesis}{
+   author = {{Bray}, H.~L.},
+    title = {The Penrose inequality in general relativity and volume comparison theorems involving scalar curvature},
+   school = {STANFORD UNIVERSITY},
+     year = {1997},
+    month = {November},
+   adsurl = {http://adsabs.harvard.edu/abs/1997PhDT........63B},
+  adsnote = {Provided by the SAO/NASA Astrophysics Data System}
+}
+
+\end{biblist}
+\end{bibdiv}
