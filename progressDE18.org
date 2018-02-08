@@ -1,0 +1,18 @@
+#+options: toc:nil date:nil title:nil num:nil
+#+latex_header: \input{settings}
+
+* G2: DE180100110 ARC DECRA, "Analysis of fully non-linear geometric problems and differential equations" Statement of Progress
+
+Chief Investigator: Paul Bryan
+
+** Aims
+
+1. Examine the connections between geometric evolution equations and isoperimetric comparisons, obtaining comparisons and quantifying asymptotic singularity formation for a variety of geometric evolution equations.
+
+2. Develop a theory of the Cross Curvature Flow and apply it to obtain a topological classification of hyperbolic manifolds. 
+
+3. Perform stability analysis of ancient solutions to curvature flows and classify such solutions. In particular, apply these results to obtain area estimates for minimal surfaces and explore the connections between curvature flows and the conformal geometry of the sphere. 
+
+** Progress
+
+The project begin in January 2018 at Macquarie University when Dr. Bryan transferred the award from the ANU to Macquarie University where he will take up a continuing, lecturer position beginning in 2021 upon completion of the DECRA. The aims of the project and progress will not be affected by the change of host.
