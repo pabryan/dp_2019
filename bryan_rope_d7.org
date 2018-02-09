@@ -1,7 +1,7 @@
 #+options: toc:nil date:nil title:nil num:nil
 #+latex_header: \input{settings}
 
-* D7 Rope - Bryan
+* D7 ROPE - Bryan
 
 ** AMOUNT OF TIME AS AN ACTIVE RESEARCHER
 
@@ -9,7 +9,7 @@ It is 5.5 years since I graduated with my highest educational qualification. Fro
 
 ** RESEARCH OPPORTUNITIES
 
-From 2012-2015 I was an SEW Visiting Assistant Professor at UCSD. My role was 0.6 teaching, 0.4 research. For 2016-2017, I held Research Fellow positions at the ANU, Warwick University and the University of Queensland as well as a Riemman Fellow at Leibniz University. I had small teaching load of around 0.1 teaching, with the remaining 0.9 devoted to research. Currently I am funded by a DECRA at Macuqrie University for 2018-2020 with 0.8 time devoted to research under the DECRA and the remaining 0.2 to be distributed amongst teaching, administration and other projects such as the current proposal. I also hold a continuing Lecturer position at Macquarie which will become active in 2021 upon completion of the DECRA.
+From 2012-2015 I was an SEW Visiting Assistant Professor at UCSD. My role was 0.6 teaching, 0.4 research. For 2016-2017, I held Research Fellow positions at the ANU, Warwick University and the University of Queensland as well as a Riemann Fellow at Leibniz University. I had small teaching load of around 0.1 teaching, with the remaining 0.9 devoted to research. Currently I am funded by a DECRA at Macquarie University for 2018-2020 with 0.8 time devoted to research under the DECRA and the remaining 0.2 to be distributed amongst teaching, administration and other projects such as the current proposal. I also hold a continuing Lecturer position at Macquarie which will become active in 2021 upon completion of the DECRA.
 
 I received research mentoring from Prof. Ben Andrews throughout my PhD studies, and in the years after. I also had access to mentoring by leaders in the field, including Prof.'s Ben Chow, Lei Ni, Peter Topping and Joseph Grotowski over the past five years.
 
@@ -35,7 +35,7 @@ All of my appointments have provided access to library facilities, computing as 
    China-Australia joint conference on partial differential equations
  - Dec 2016 Harnack Inequalities and Ancient Solutions of Hypersurface Flows
    Singularities of Geometric Partial Differential Equations, Warwick University
- - June 2016 Ancient soutions and Harnack Inequalities for curvature flows
+ - June 2016 Ancient solutions and Harnack Inequalities for curvature flows
    Pontifical Catholic University of Chile
  - May 2016 Ancient solutions of curvature flows in the sphere
    University of Warwick
