@@ -92,14 +92,16 @@ All of my appointments have provided access to library facilities, computing as 
  
 *** Other Professional Activities
 
- - Refereed 10 articles for Calc. Var. PDE, Crelle's Journal, Proc. AMS and others.
- - Reviewed 18 articles on MathSciNet Mathematical Reviews.
- - Joint organiser for Matrix workshop: Elliptic Partial Differential Equations Of Second Order: Celebrating 40 Years Of Gilbarg And Trudinger’s Book
- - Joint organiser for PDE session of 61st AustMS Meeting 2017
- - Guest Editor for Matrix Annals 2017
- - Honour's Panel: Zi Ou, UQ 2017
- - Assisted supervision of Marielle Ong's Master's Thesis under Masoud Kamgarpour, UQ 2017
- - Assisted supervision of Janelle Louise' Ph.D. Thesis under Bennet Chow, UCSD 2014
+- Refereed 10 articles for Calc. Var. PDE, Crelle's Journal, Proc. AMS and others.
+- Reviewed 18 articles on MathSciNet Mathematical Reviews.
+- Joint organiser for Matrix workshop: Elliptic Partial Differential Equations Of Second Order: Celebrating 40 Years Of Gilbarg And Trudinger’s Book, 2017
+- Joint organiser for PDE session of 61st AustMS Meeting 2017
+- Guest Editor for Matrix Annals 2017
+- Supervised three undergraduate research projects (UCSD 2014, UQ 2017)
+- Master's Panel: Marielle One, UQ 2017
+- Honour's Panel: Zi Ou, UQ 2017
+- Assisted supervision of Marielle Ong's Master's Thesis under Masoud Kamgarpour, UQ 2017
+- Assisted supervision of Janelle Louise' Ph.D. Thesis under Bennet Chow, UCSD 2014
 
 *** Research Impact
 
