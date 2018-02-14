@@ -1,4 +1,4 @@
-\usepackage[bibstyle=alphabetic,citestyle=alphabetic,backend=bibtex]{biblatex}
+\usepackage[bibstyle=alphabetic,citestyle=alphabetic,backend=biber]{biblatex}
 \bibliography{refs}
 \AtEveryBibitem{\clearfield{doi}}
 \AtEveryBibitem{\clearfield{url}}
@@ -20,4 +20,21 @@
 \setlength{\belowdisplayskip}{0pt}
 \setlength{\abovedisplayshortskip}{0 pt}
 \setlength{\belowdisplayshortskip}{0 pt}
+
+\DeclareSourcemap{
+    \maps[datatype=bibtex]{
+      \map{
+        \step[fieldsource=ARC]
+        \step[fieldset=usera,origfieldval]
+    }
+  }
+}
+
+\DeclareFieldFormat{usera}{[#1]}
+
+\AtEveryBibitem{%
+  \csappto{blx@bbx@\thefield{entrytype}}{% put at end of entry
+      \iffieldundef{usera}{}{\space\printfield{usera}}
+  }
+}
 

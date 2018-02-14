@@ -9,4 +9,5 @@
 *.pdf
 *.fdb_latexmk
 *.out
+*.bcf
 auto/
